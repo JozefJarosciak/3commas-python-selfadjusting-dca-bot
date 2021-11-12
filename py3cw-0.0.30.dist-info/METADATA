@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: py3cw
+Version: 0.0.30
+Summary: 3commas Python wrapper
+Home-page: https://github.com/bogdanteodoru/py3cw
+Author: Bogdan Teodoru
+Author-email: me@bogdanteodoru.com
+License: MIT
+Keywords: api 3commas trading crypto bitcoin altcoin
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+License-File: LICENSE
+Requires-Dist: requests
+
+UNKNOWN
+

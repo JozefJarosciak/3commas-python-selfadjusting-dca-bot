@@ -1,0 +1,17 @@
+py3cw-0.0.30.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+py3cw-0.0.30.dist-info/LICENSE,sha256=pogSMt3dAQ1tg_OdGDm_TX52yqIH0xMHQsOcv1nfaoU,1071
+py3cw-0.0.30.dist-info/METADATA,sha256=xBhkDtcW3VTtJygVxKguUbcKdYbPWyIh4E9HF435hs0,386
+py3cw-0.0.30.dist-info/RECORD,,
+py3cw-0.0.30.dist-info/REQUESTED,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+py3cw-0.0.30.dist-info/WHEEL,sha256=ewwEueio1C2XeHTvT17n8dZUJgOvyCWCt0WVNLClP9o,92
+py3cw-0.0.30.dist-info/top_level.txt,sha256=vXo_Kp592CcDEMtjw9zag_-Khq7zmGrSYV90BJvwJuM,6
+py3cw/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+py3cw/__pycache__/__init__.cpython-39.pyc,,
+py3cw/__pycache__/config.cpython-39.pyc,,
+py3cw/__pycache__/request.cpython-39.pyc,,
+py3cw/__pycache__/test_request.cpython-39.pyc,,
+py3cw/__pycache__/utils.cpython-39.pyc,,
+py3cw/config.py,sha256=qyAQcP0DjoVvKH-_bPLJoufNiPGGMCrPC2mEPlaqhiw,5043
+py3cw/request.py,sha256=DDZU8OnbkCLTmM6_dAoyyo4deFNpLbSu6WWsD0NgTpY,6437
+py3cw/test_request.py,sha256=6FxZLloz3TlbloRg1ERrdB5cj4HBeUzfk8ybLsj3nBM,1503
+py3cw/utils.py,sha256=LwNGqufLTJSsvJ2hV8K8QwmpUK2rdhxfCal9Xm5arOA,899
