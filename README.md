@@ -4,7 +4,7 @@ The following code describes how we can leverage Python & AWS Lambda & 3Commas A
 More details in the following article:
 https://www.joe0.com/2021/10/30/how-to-create-self-adjusting-auto-compounding-dca-crypto-trading-bot-using-python-aws-lambda-by-leveraging-3commas-api/
 
-# Screenshot
+# Flow Depiction
 ![alt text](https://www.joe0.com/wp-content/uploads/2021/10/img_617db4911cd36.png)
 
 # Source Code & Licensing
