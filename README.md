@@ -1,4 +1,4 @@
-# 3commas-python-selfadjusting-dca-bot
+# Self-adjusting, auto-compounding multi-pair DCA crypto trading bot using Python, AWS Lambda & 3Commas API
 The following code describes how we can leverage Python & AWS Lambda & 3Commas API to automatically adjust the Base and Safety order size of a DCA crypto trading multi-pair bot based on the total balance available in the account.
 
 More details in the following article:
